@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "otcTOxyocbrIHotXPDGGBlVSyzXmbbVFlsHbCmjlhKU=",
+  "Source": "RabbitMQTest",
+  "BasePath": "_content/RabbitMQTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
